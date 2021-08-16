@@ -1,10 +1,15 @@
+#why {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 35px;
+    color: white;
+    text-align: left;
+}
+
 .flex-container {
    display: flex;
-   flex-direction: row;
-   flex-wrap: column;
-   align-items: center;
    justify-content: space-around;
    align-content: space-between;
+
 }
 
 .percent {
@@ -19,8 +24,37 @@
     font-size: 14px;
 }
 
-.info {
+.info1 {
     border-style: solid;
     border-radius: 25px;
-    border-color: orange;
+    border-color: darkorange;
+    margin: 20px;
+    flex: 1 1 0;
+}
+
+.info2 {
+    border-style: solid;
+    border-radius: 25px;
+    border-color: darkorange;
+    margin: 20px;
+    flex: 1 1 0;
+
+}
+
+.info3 {
+    border-style: solid;
+    border-radius: 25px;
+    border-color: darkorange;
+    margin: 20px;
+    flex: 1 1 0;
+
+}
+
+
+.info4 {
+    border-style: solid;
+    border-radius: 25px;
+    border-color: darkorange;
+    margin: 20px;
+    flex: 1 1 0;
 }
