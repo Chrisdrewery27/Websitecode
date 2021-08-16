@@ -1,0 +1,60 @@
+#why {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 35px;
+    color: white;
+    text-align: left;
+}
+
+.flex-container {
+   display: flex;
+   justify-content: space-around;
+   align-content: space-between;
+
+}
+
+.percent {
+    color: white;
+    text-align: center;
+    font-size: 40px;
+}
+
+.data {
+    color: white;
+    text-align: center;
+    font-size: 14px;
+}
+
+.info1 {
+    border-style: solid;
+    border-radius: 25px;
+    border-color: darkorange;
+    margin: 20px;
+    flex: 1 1 0;
+}
+
+.info2 {
+    border-style: solid;
+    border-radius: 25px;
+    border-color: darkorange;
+    margin: 20px;
+    flex: 1 1 0;
+
+}
+
+.info3 {
+    border-style: solid;
+    border-radius: 25px;
+    border-color: darkorange;
+    margin: 20px;
+    flex: 1 1 0;
+
+}
+
+
+.info4 {
+    border-style: solid;
+    border-radius: 25px;
+    border-color: darkorange;
+    margin: 20px;
+    flex: 1 1 0;
+}
