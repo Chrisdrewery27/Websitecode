@@ -1,15 +1,16 @@
-.mainBody { 
-    background: url("https://www.newgrounds.com/dump/draw/de458c2569f8b163e361c0636cf142e6") no-repeat fixed center;
-  }
-
 .Head01 {
-  margin-top: 280px;
+
+  margin-top: -450px;
   margin-left: 140px;
   margin-right: 600px;
 
   font-size: 50px;
   font-family: Arial, Helvetica, sans-serif;
   font-weight: bolder;
+}
+
+.Img01 {
+  pointer-events: none;
 }
 
 .Para01 {
