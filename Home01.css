@@ -1,0 +1,32 @@
+.mainBody { 
+    background: url("https://www.newgrounds.com/dump/draw/de458c2569f8b163e361c0636cf142e6") no-repeat fixed center;
+  }
+
+.Head01 {
+  margin-top: 280px;
+  margin-left: 140px;
+  margin-right: 600px;
+
+  font-size: 50px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bolder;
+}
+
+
+
+.Para01 {
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bold;
+  font-style: arial;
+  font-size: 20px;
+
+  margin-top: 55px;
+  margin-left: 140px;
+  margin-right: 600px;
+  margin-bottom: 0px;
+
+  padding-right: 10px;
+
+  border-left: solid 5px green;
+  background-color: #2d60b7;
+}
