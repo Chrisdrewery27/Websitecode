@@ -1,10 +1,15 @@
-#why {
+h1 {
     font-family: Arial, Helvetica, sans-serif;
     font-size: 35px;
     color: white;
-    text-align: left;
 }
-
+.name {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 35px;
+    color: white;
+    text-decoration-line: underline;
+    text-decoration-color: darkorange;
+}
 .flex-container {
    display: flex;
    justify-content: space-around;
@@ -58,3 +63,5 @@
     margin: 20px;
     flex: 1 1 0;
 }
+
+
