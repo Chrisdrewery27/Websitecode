@@ -3,6 +3,8 @@
     font-size: 35px;
     color: rgb(0, 0, 0);
     text-align: left;
+    margin-top: 150px;
+    margin-left: 100px;
 }
 .name {
     font-family: Arial, Helvetica, sans-serif;
@@ -36,6 +38,8 @@
     border-color: darkorange;
     margin: 20px;
     flex: 1 1 0;
+    margin-left: 100px;
+    margin-right: -1px;
 }
 
 .info2 {
@@ -44,6 +48,7 @@
     border-color: darkorange;
     margin: 20px;
     flex: 1 1 0;
+    margin-right: -1px;
 
 }
 
@@ -53,6 +58,7 @@
     border-color: darkorange;
     margin: 20px;
     flex: 1 1 0;
+    margin-right: -1px;
 
 }
 
@@ -63,6 +69,7 @@
     border-color: darkorange;
     margin: 20px;
     flex: 1 1 0;
+    margin-right: 100px;
 }
 
 
