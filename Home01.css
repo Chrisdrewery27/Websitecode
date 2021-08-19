@@ -20,6 +20,24 @@
   font-weight: bolder;
 }
 
+.Head03 {
+  margin-top: 250px;
+  margin-left: 100px;
+
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bolder;
+  color: orange;
+}
+
+.Head04 {
+  margin-left: 100px;
+  margin-right: 600px;
+  font-size: 36px;
+
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bolder;
+}
+
 .Img01 {
   margin-top: 50px;
   pointer-events: none;
@@ -100,6 +118,34 @@
   margin-right: 40px;
   margin-top: -30px;
 }
+
+.infoButton {
+    margin-top: 30px;
+
+    font-size: 15px;
+    border-radius: 4px;
+    background-color: white;
+    color: rgb(43, 43, 43);
+    border: 2px solid rgb(43, 43, 43);
+    float: left;
+    text-align: center;
+    padding: 10px 26px;
+}
+
+.infoButton02 {
+  margin-top: 30px;
+  margin-left: 10px;
+
+  font-size: 15px;
+  border-radius: 4px;
+  background-color: white;
+  color: rgb(43, 43, 43);
+  border: 2px solid rgb(43, 43, 43);
+  float: left;
+  text-align: center;
+  padding: 10px 26px;
+}
+
 
 /* some changes to josh's code. just a ttiiiiiiny change dw */
 
