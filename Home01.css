@@ -1,7 +1,7 @@
 
 .Head01 {
 
-  margin-top: -450px;
+  margin-top: -480px;
   margin-left: 140px;
   margin-right: 600px;
 
@@ -12,15 +12,16 @@
 
 .Head02 {
   margin-top: 100px;
-  margin-left: 100px;
+  margin-left: 110px;
   margin-right: 600px;
 
-  font-size: 40px;
+  font-size: 36px;
   font-family: Arial, Helvetica, sans-serif;
   font-weight: bolder;
 }
 
 .Img01 {
+  margin-top: 50px;
   pointer-events: none;
 }
 
@@ -36,30 +37,78 @@
   margin-bottom: 0px;
 
   padding-right: 10px;
-  background-color: #2d60b7;
+  background-color: #243e90
+  ;
 }
 
 .Para02 {
   font-family: Arial, Helvetica, sans-serif;
   font-style: arial;
-  font-size: 30px;
-
-  margin-top: 60px;
-  margin-left: 98px;
+  font-size: 25px;
 }
 
 .Para03 {
   font-family: Arial, Helvetica, sans-serif;
   font-style: arial;
-  font-size: 20px;
-
-  margin-top: 30px;
-  margin-left: 100px;
-  margin-right: 700px;
+  font-size: 30px;
 }
 
 .Div01 {
   position: absolute;
   background-color: #2d60b7;
   color: white;
+}
+
+.grid {
+  display: grid;
+  grid-template-columns: auto auto auto;
+  padding: 10px;
+  margin-left: 78px;
+  margin-top: -10px;
+}
+.grid-item {
+  font-family: Arial, Helvetica, sans-serif;
+  font-style: Arial;
+  color: grey;
+  padding: 20px;
+}
+
+.grid-item01 {
+  padding: 20px;
+  font-size: 30px;
+
+  font-weight: bolder;
+}
+
+.grid-item02 {
+  padding: 20px;
+  font-size: 30px;
+
+  margin-left: 5px;
+
+  font-weight: bolder;
+}
+
+.something {
+  text-decoration: underline orange;
+  text-decoration-thickness: 5px;
+}
+
+.uugh {
+  font-size: 20px;
+  font-style: bold;
+  margin-right: 40px;
+  margin-top: -30px;
+}
+
+/* some changes to josh's code. just a ttiiiiiiny change dw */
+
+.percent {
+  font-family: Arial, Helvetica, sans-serif;
+    font-style: arial;
+}
+
+.data {
+  font-family: Arial, Helvetica, sans-serif;
+    font-style: arial;
 }
